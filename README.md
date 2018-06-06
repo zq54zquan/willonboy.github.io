@@ -10,7 +10,7 @@ deeplink test
 * NO.2 你安装app时是不是用了代理, 当前是不是用了代理? (用了代理可能导致iOS系统下载不了app对应的apple-app-site-association文件)
 * NO.3 你当前访问的链接url是不是外链
 
-zhibo[bilibili://home/直播]
+[zhibo](bilibili://home/直播)
 
 <a href="http://willonboy.github.io/test">http://willonboy.github.io/test</a>
 <br>
